@@ -1,7 +1,7 @@
 /* Estilos para la página de inicio */
 body {
     height: 100%;
-    background-image: url('C:/Users/desti/OneDrive/Documentos/FulStack+Ciber/landing page/images/fondo.jpg');
+    background-image: url('images/fondo.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* Fondo fijo al desplazarse */
